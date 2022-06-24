@@ -1,4 +1,1 @@
-# BukuTamu
-Android CRUD with mysql
-
-Simple Crud App with mysql
+# Deteksi Masker Untuk buku tamu event
